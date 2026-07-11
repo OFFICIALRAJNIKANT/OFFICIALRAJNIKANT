@@ -137,24 +137,6 @@ End-to-end Data Engineering Pipeline using
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OFFICIALRAJNIKANT&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALRAJNIKANT&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFICIALRAJNIKANT&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🎯 2026 Learning Focus
 
 * Enterprise Backend Engineering
