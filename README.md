@@ -1,29 +1,174 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm RAJNIKANT SINGH</h1>
-<h3 align="center">A Passionate Data Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://community.tunkainstitute.org/wp-content/uploads/2022/12/data-analysis.gif">
+<!-- ========================= HEADER ========================= -->
 
+<h1 align="center">Hi 👋, I'm Rajnikant Singh</h1>
 
-- 🔭 I’m currently working on **Enhancing My Skills**
+<h3 align="center">
+Associate @ Goldman Sachs • Data Engineering • Backend Engineering • Cloud • AI
+</h3>
 
-- 🌱 I’m currently learning **R**
+<p align="center">
+Passionate about building secure, scalable and enterprise-grade data platforms.
+</p>
 
-- 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯**
+---
 
-- 📫 How to reach me **wrajnikant1433@gmail.com**
+# 👨‍💻 About Me
 
-- ⚡ Fun fact **I am switching to tech world from non-tech and really enjoying it.**
+* 💼 Associate at **Goldman Sachs**
+* 🚀 Building **AEGIS** — an Enterprise AI & Data Platform
+* ☁️ Hands-on with modern **AWS Data Engineering**
+* 🏗️ Passionate about scalable backend systems and cloud-native architecture
+* 📊 Experienced in Business Intelligence, Analytics, Reporting and Data Governance
+* 🌱 Currently learning Enterprise Cloud Architecture, Kubernetes and Distributed Systems
+* 📫 **Email:** **[wrajnikant1433@gmail.com](mailto:wrajnikant1433@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ AEGIS — Enterprise AI Platform
+
+Enterprise backend platform built with:
+
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* JWT Authentication
+* RBAC
+* Alembic
+* Swagger / OpenAPI
+* Enterprise Architecture
+* AI Ready Design
+
+---
+
+## ☁️ AWS YouTube Data Engineering Pipeline
+
+End-to-end Data Engineering Pipeline using
+
+* Amazon S3
+* AWS Lambda
+* AWS Glue
+* AWS Athena
+* AWS Step Functions
+* Amazon EventBridge
+* Amazon SNS
+* CloudWatch
+* IAM
+* PySpark
+* Bronze • Silver • Gold Data Lake Architecture
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+
+---
+
+## ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B4B4B?style=for-the-badge)
+
+---
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## ☁️ AWS Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/Glue-232F3E?style=for-the-badge)
+![Amazon Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge)
+![AWS Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge)
+![Amazon EventBridge](https://img.shields.io/badge/EventBridge-5A30F0?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge)
+
+---
+
+## 📊 Analytics & BI
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0A5AA1?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+---
+
+## 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/me-rajnikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-rajnikant" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rajnikant1433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajnikant1433" height="30" width="40" /></a>
 
+<a href="https://linkedin.com/in/me-rajnikant">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- 
- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-rajnikant)
+<a href="mailto:wrajnikant1433@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialrajnikant&show_icons=true&locale=en&layout=compact" alt="officialrajnikant" /></p>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OFFICIALRAJNIKANT&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALRAJNIKANT&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFICIALRAJNIKANT&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Learning Focus
+
+* Enterprise Backend Engineering
+* Advanced Data Engineering
+* AWS Cloud
+* Kubernetes
+* System Design
+* Distributed Systems
+* AI Agents & Agentic Workflows
+
+---
+
+<h3 align="center">
+
+Building secure backend systems • Cloud-native data platforms • Enterprise AI solutions
+
+</h3>
