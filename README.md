@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajnikant Singh</h1>
 
 <h3 align="center">
-Associate @ Goldman Sachs • Data Engineering • Backend Engineering • Cloud • AI
+Associate @ Goldman Sachs • Business Intelligence (BI) • Data Engineering • Cloud • AI
 </h3>
 
 <p align="center">
